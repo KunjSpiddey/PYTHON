@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c752b1d9-1a01-4692-b379-c1424524b822" name="Changes" comment="Dictionaries_2">
-      <change afterPath="$PROJECT_DIR$/variadic_argument/variadic__.py" afterDir="false" />
+    <list default="true" id="c752b1d9-1a01-4692-b379-c1424524b822" name="Changes" comment="practice_task">
+      <change afterPath="$PROJECT_DIR$/Practical/practical_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practical/practical_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practical/practical_3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,17 +34,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.dicionaries_1.executor": "Run",
-    "Python.tuple_1.executor": "Run",
-    "Python.tuple_2.executor": "Run",
-    "Python.variadic__.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.dicionaries_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.practice_task.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tuple_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tuple_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.variadic__.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\kunjk\Desktop\Practicals\Python\PYTHON\Tuple" />
@@ -97,7 +100,23 @@
       <option name="project" value="LOCAL" />
       <updated>1703925314161</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="practice_task">
+      <option name="closed" value="true" />
+      <created>1707456797802</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1707456797802</updated>
+    </task>
+    <task id="LOCAL-00006" summary="practice_task">
+      <option name="closed" value="true" />
+      <created>1707457128042</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1707457128042</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -105,6 +124,7 @@
     <MESSAGE value="modification and Tuple1" />
     <MESSAGE value="Tuple2" />
     <MESSAGE value="Dictionaries_2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Dictionaries_2" />
+    <MESSAGE value="practice_task" />
+    <option name="LAST_COMMIT_MESSAGE" value="practice_task" />
   </component>
 </project>
