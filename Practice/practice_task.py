@@ -176,7 +176,7 @@ print(is_palindrome(test_list2))
 
 tuple1 = (1, 2, 3)
 tuple2 = (4, 5, 6)
-print(tuple(tuple1 + tuple2))
+print(*tuple1,*tuple2)
 
 
 
